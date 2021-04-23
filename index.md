@@ -10,6 +10,6 @@ I am Jen Yang and I like dogs. Some people even say I look like a dog, which I c
 4. Generally laze around
 5. Video Games, sometimes
 
-See my writing [here](KingofSingapore.wordpress.com)
+See my writing [here](https://KingofSingapore.wordpress.com)
 
-See my projects [here](google.com)
+See my projects [here](https://google.com)
