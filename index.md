@@ -12,7 +12,7 @@ See my writing [here](https://KingofSingapore.wordpress.com)
 
 Some of my [projects](https://KingofSingapore.wordpress.com)
 
-Add me on [LinkedIn](www.linkedin.com/in/tanjenyang)
+Add me on [LinkedIn](https://www.linkedin.com/in/tanjenyang)
 
 My Current Favourite Quote:
 "Think of how stupid the average person is, then realise that half the people are stupider than that."
