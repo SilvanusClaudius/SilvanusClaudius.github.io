@@ -2,19 +2,17 @@
 
 I am Jen Yang and I like dogs. Some people even say I look like a dog, which I cannot deny nor confirm.
 
-#Things that I do
+Studying in 🇬🇧 Home in 🇸🇬
 
-1. Blog
-2. Draw
-3. 3D Modelling and CAD
-4. Generally laze around
-5. Video Games, sometimes
+My interests are in Science, Technology, History, and Philosophy. I write frequently on my blog, as well as do various projects for school teams and my own personal amusement on the side. My skills include design, 3D modellling, coding and data analysis.
 
-My first post [here](Post1.md)
-
-Engineering nnotes [here](Mech13Summary.pdf)
+Engineering notes [here](SilvanusClaudius.github.io/schoolnotes)
 
 See my writing [here](https://KingofSingapore.wordpress.com)
 
-See my projects [here](https://google.com)
+Some of my [projects](https://KingofSingapore.wordpress.com)
 
+Add me on [LinkedIn](www.linkedin.com/in/tanjenyang)
+
+My Current Favourite Quote:
+"Think of how stupid the average person is, then realise that half the people are stupider than that."
