@@ -6,7 +6,7 @@ Studying in 🇬🇧 Home in 🇸🇬
 
 My interests are in Science, Technology, History, and Philosophy. I write frequently on my blog, as well as do various projects for school teams and my own personal amusement on the side. My skills include design, 3D modellling, coding and data analysis.
 
-Engineering notes [here](SilvanusClaudius.github.io/schoolnotes)
+Engineering notes [here](https://SilvanusClaudius.github.io/schoolnotes)
 
 See my writing [here](https://KingofSingapore.wordpress.com)
 
