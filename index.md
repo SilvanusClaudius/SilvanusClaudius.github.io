@@ -10,7 +10,7 @@ Engineering notes [here](https://SilvanusClaudius.github.io/schoolnotes)
 
 See my writing [here](https://KingofSingapore.wordpress.com)
 
-Some of my [projects](https://KingofSingapore.wordpress.com)
+Some of my [projects](https://kingofsingapore.wordpress.com/category/projects/)
 
 Add me on [LinkedIn](https://www.linkedin.com/in/tanjenyang)
 
